@@ -4,7 +4,7 @@ margin: 0;
 }
 
 header {
-    background-color: blue;
+    background-color: green;
     color: white;
     font-size: 20px;
     font-weight: 600;
@@ -23,7 +23,8 @@ img {
 }
 
 .about {
-background-color: white;
+background-color: greenyellow;
+color: red;
 padding: 30px;
 }
  
@@ -47,7 +48,7 @@ span {
 }
 
 footer {
-    background-color: blue;
+    background-color: green;
     color: white;
     font-size: 20px;
     font-weight: 600;
